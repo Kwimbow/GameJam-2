@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e633b72b687a2746afcb4bf0258749f
+timeCreated: 1503966817
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99042
+  packageName: PBR Dining Table And Chair
+  packageVersion: 1.0
+  assetPath: Assets/PBR Dining Table And Chair/Demo/Materials/tileable-light-wood-textures-5.mat
+  uploadId: 198379

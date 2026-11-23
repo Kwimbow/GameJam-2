@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70eba3a3005f1d346ab27c5d6740ae7f
+timeCreated: 1503968165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99042
+  packageName: PBR Dining Table And Chair
+  packageVersion: 1.0
+  assetPath: Assets/PBR Dining Table And Chair/Demo/Demo/LightingData.asset
+  uploadId: 198379
