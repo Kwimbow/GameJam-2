@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/JustPlay.meta
 guid: 200ea2acf5e3148e18cc0151b61ddfab
-========
-guid: 4105df546034e4940bef866cd8776fe7
->>>>>>>> 09196ba (feat: implemented barebones LSHall):Assets/Materials.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
